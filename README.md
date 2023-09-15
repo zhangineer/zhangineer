@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning generative AI
 - 💞️ I’m looking to collaborate on building the future products of networking
 - 📫 Reach me via linkedin: https://www.linkedin.com/in/zhangineer
-- 📧 Reach me via email: zhangr.cn@gmail.com
+- 📧 Reach me via email: tape.fajitas01@icloud.com
 
 <!---
 zhangineer/zhangineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
